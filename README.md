@@ -1,6 +1,6 @@
 # Curso-NodeJS-y-Socket.io-Chat-project
 
-A simple Chat app, users whitin the same network can connect to [https://]("http://localhost:6677/") and use it simultaneously.
+A simple Chat app, users whitin the same network can connect to `http://localhost:6677/` and use it simultaneously.
 
 
 
